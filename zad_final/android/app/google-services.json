@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294384143330",
+    "project_id": "zad-food-rescue",
+    "storage_bucket": "zad-food-rescue.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294384143330:android:83ce7243bade656b7d87bb",
+        "android_client_info": {
+          "package_name": "com.zad.food_rescue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4tFb2uJMWZpfmGn0UkCVxEnfREGs4j_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
