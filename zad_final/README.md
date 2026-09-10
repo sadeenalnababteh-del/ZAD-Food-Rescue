@@ -235,7 +235,7 @@ Make sure you have the following installed:
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/ZAD-Food-Rescue.git
+git clone https://github.com/sadeenalnababteh-del/ZAD-Food-Rescue.git
 
 -Navigate to the project:
 
